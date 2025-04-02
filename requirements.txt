@@ -5,4 +5,6 @@ sentence-transformers==2.2.2
 faiss-cpu==1.8.0
 pypdf==4.2.0
 torch==2.2.0
-numpy==1.26.4  # Added this
+numpy==1.26.4
+scipy==1.14.1  # For scientific computations
+scikit-learn==1.5.2  # For machine learning utils
