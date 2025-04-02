@@ -3,5 +3,5 @@ langchain==0.0.300
 transformers==4.34.0
 sentence-transformers==2.2.2
 faiss-cpu==1.8.0
-PyPDF2==3.0.1
+pypdf==4.2.0  # Add this instead of PyPDF2
 torch==2.2.0
