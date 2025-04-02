@@ -1,7 +1,7 @@
-streamlit==1.24.0           # Free web app framework
-langchain==0.0.300          # Free orchestration tool
-transformers==4.34.0        # Free Hugging Face models
-sentence-transformers==2.2.2 # Free embedding models
-faiss-cpu==1.7.4            # Free local vector database
-PyPDF2==3.0.1               # Free PDF processing
-torch==2.0.1                # Free PyTorch for models
+streamlit==1.24.0
+langchain==0.0.300
+transformers==4.34.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+PyPDF2==3.0.1
+torch==2.2.0  # Updated to a version compatible with Python 3.12
