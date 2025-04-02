@@ -4,4 +4,4 @@ transformers==4.34.0
 sentence-transformers==2.2.2
 faiss-cpu==1.7.4
 PyPDF2==3.0.1
-torch==2.2.0  # Updated to a version compatible with Python 3.12
+torch==2.2.0
