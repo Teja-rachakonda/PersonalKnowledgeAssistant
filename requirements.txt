@@ -5,4 +5,4 @@ sentence-transformers==2.2.2
 faiss-cpu==1.8.0
 pypdf==4.2.0
 torch==2.2.0
-numpy==1.26.4  # Explicitly add numpy, required by sentence-transformers
+numpy==1.26.4  # Added this
