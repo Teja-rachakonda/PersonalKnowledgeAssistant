@@ -35,7 +35,7 @@ def answer_question(query):
     llm = HuggingFacePipeline.from_model_id(
         model_id="distilgpt2",  # Smaller than GPT-2, works on low-end PCs
         task="text-generation",
-        pipeline_kwargs={"max_new_tokens": 200}  # Short answers to save memory
+        pipeline_kwargs={"max_new_tokens": 100}  # Short answers to save memory
     )
     
     # Conversational chain (all local)
