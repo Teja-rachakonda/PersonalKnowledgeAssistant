@@ -1,5 +1,5 @@
 swig
-g++  # C++ compiler for faiss-cpu
-libjpeg-dev  # For pillow
-zlib1g-dev   # For pillow
-libpng-dev   # For pillow
+g++
+libjpeg-dev
+zlib1g-dev
+libpng-dev
